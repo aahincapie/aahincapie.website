@@ -1,11 +1,28 @@
 ---
 permalink: /about/
 title: "About"
+categories:
+  - Curriculum vitae
+tags:
+  - link
+link: https://github.com/aahincapie/_post/202107_AndresHincapie.pdf
 ---
 
 I am a Forestry Engineer and Anthropologist who hold a Master's degree in analysis and modeling of environmental systems from Brazil. Andrés has more than five years focused on AR and REDD's technical and political issues, overall associated with the voluntary carbon market under VCS and CCBs and GS. 
 
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
+
+## Contact
+Email: aahincap@unal.edu.co
+Phone (57) 350-7439527
+Website 
+Twitter @_geocaptain
+SoundCloud Towlette_Pettetucci
+
+> Download as PDF.
+
+[link](#)
+
 
 ## Qualifications
 
@@ -27,6 +44,12 @@ Dec 2005 - Dec 2013
 * Colombia, Medellín
 Jan 2005 - Jun 2012
 
+## Research Interests
+
+    Interactions among climate, land use and land cover change, and livelihoods
+    Methods and tools for integrating social and biophysical datasets to unlock voluntary carbon market
+    Modeling , mapping and data visualization
+
 
 ## Main skills and interest
 
@@ -35,7 +58,7 @@ Jan 2005 - Jun 2012
 *	Geospatial solutions; Innovative and spatial-explicit modeling scenarios
 *	Right based approaches, Free, Prior and Informed Consent (FPIC), and Stakeholder Consultation (LSC)
 
-## Work experience 
+## Short-work experience 
 
 * Senior Project Coordinator Forestry & Land Use Projects |  South Pole, Colombia (Jun 2017 – Jun 2021)
 * GIS Forestry & Land Use Projects | South Pole, Colombia (Jun 2017 – Jun 2021)
