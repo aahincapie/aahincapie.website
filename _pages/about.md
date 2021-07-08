@@ -12,10 +12,10 @@ I am a Forestry Engineer and Anthropologist who hold a Master's degree in analys
 
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
 
-## Contact
-Email: aahincap@unal.edu.co
-Phone (57) 350-7439527
-Medellin, Colombia
+##### Contact
+  * Email: aahincap@unal.edu.co
+  * Phone (57) 350-7439527
+  * Medellin, Colombia
 
 
 ## Qualifications
