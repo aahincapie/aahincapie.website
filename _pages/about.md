@@ -7,42 +7,42 @@ I am a Forestry Engineer and Anthropologist who hold a Master's degree in analys
 
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
 
-# Qualifications
+## Qualifications
 
 ###### M.Sc.
 *Federal University of Minas Gerais*
-_Analysis and Modeling of Environmental Systems_
-Brazil, Belo Horizonte
+* _Analysis and Modeling of Environmental Systems_
+* Brazil, Belo Horizonte
 Mar 2015 - May 2017
 
 ###### B.Sc.
 *University of Antioquia*
-_Anthropology_
-Colombia, Medellín
+* _Anthropology_
+* Colombia, Medellín
 Dec 2005 - Dec 2013
 
 ###### B.Eng
 *National University of Colombia* 
-_Forestry Engineer_
-Colombia, Medellín
+* _Forestry Engineer_
+* Colombia, Medellín
 Jan 2005 - Jun 2012
 
 
-# Main skills and interest
+## Main skills and interest
 
 *	Forestry and Landscape projects; Community and Stakeholder engagement; Complex data analysis 
 *	Emissions Reduction from Deforestation, Degradation, and Agroforestry projects 
 *	Geospatial solutions; Innovative and spatial-explicit modeling scenarios
 *	Right based approaches, Free, Prior and Informed Consent (FPIC), and Stakeholder Consultation (LSC)
 
-# Work experience 
+## Work experience 
 
-* Senior Project Coordinator | Forestry & Land Use Projects , South Pole, Colombia (Jun 2017 – Jun 2021)
-* GIS | Forestry & Land Use Projects, South Pole, Colombia (Jun 2017 – Jun 2021)
-* Environmental Analyst, WWF-OIA, Colombia (May 2016 - Dec 2016)
-* Specialist: Social and Forestry consultancy, Universidad Nacional de Colombia, Colombia, Colombia (May 2016 - Jul 2016)
-* Assistant professor, Universidade Federal de Minas Gerais, Brazil (Jul 2015 - Dic 2015)
-* Land Tenure and Land Use Advisor, Indigenous Organization of Antioquia, Colombia (Jul 2013 - Feb 2015)
-* Forestry and Anthropologist (Consultancy), Renovatio Group Ltda, Colombia (Sep 2013 - May 2014)
+* Senior Project Coordinator Forestry & Land Use Projects |  South Pole, Colombia (Jun 2017 – Jun 2021)
+* GIS Forestry & Land Use Projects | South Pole, Colombia (Jun 2017 – Jun 2021)
+* Environmental Analyst | WWF-OIA, Colombia (May 2016 - Dec 2016)
+* Specialist: Social and Forestry consultancy | Universidad Nacional de Colombia, Colombia, Colombia (May 2016 - Jul 2016)
+* Assistant professor | Universidade Federal de Minas Gerais, Brazil (Jul 2015 - Dic 2015)
+* Land Tenure and Land Use Advisor | Indigenous Organization of Antioquia, Colombia (Jul 2013 - Feb 2015)
+* Forestry and Anthropologist (Consultancy)| Renovatio Group Ltda, Colombia (Sep 2013 - May 2014)
 
 
