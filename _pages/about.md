@@ -5,8 +5,9 @@ categories:
   - Curriculum vitae
 tags:
   - link
-link: https://github.com/aahincapie/assets/pdf/2021-07_CV - AdolfoAndresHincapie.pdf
+link: https://github.com/aahincapie/assets/pdf/2021-07_CV_AdolfoAndresHincapie.pdf
 ---
+[Download CV as PDF](https://github.com/aahincapie/assets/pdf/2021-07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
 
 I am a Forestry Engineer and Anthropologist who hold a Master's degree in analysis and modeling of environmental systems from Brazil. I have more than five years focused on AR and REDD's technical and political issues, overall associated with the voluntary carbon market under VCS and CCBs and GS.
 {: .notice--success} 
@@ -14,12 +15,12 @@ I am a Forestry Engineer and Anthropologist who hold a Master's degree in analys
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
 {: .notice--success}
 
-[Download as PDF](https://github.com/aahincapie/assets/pdf/2021-07_CV - AdolfoAndresHincapie.pdf){: .btn .btn--success}
+
 
 ##### Contact
-: [Email](#) aahincap@unal.edu.co, bandreshin@gmail.com
-: [Phone](#) (+57) 350-7439527
-: <address> Medellin, Colombia </address>
+**Email** aahincap@unal.edu.co, bandreshin@gmail.com
+**Phone** (+57) 350-7439527
+<address> Medellin, Colombia </address>
 
 
 ## Qualifications
