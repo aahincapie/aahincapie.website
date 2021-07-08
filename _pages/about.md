@@ -65,4 +65,4 @@ Jan 2005 - Jun 2012
 
 
 Download as PDF.
-[link]https://github.com/aahincapie/_post/202107_AndresHincapie.pdf
+[link]# https://github.com/aahincapie/_post/202107_AndresHincapie.pdf
