@@ -3,6 +3,46 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Forestry Engineer and Anthropologist who hold a Master's degree in analysis and modeling of environmental systems from Brazil. Andrés has more than five years focused on AR and REDD's technical and political issues, overall associated with the voluntary carbon market under VCS and CCBs and GS. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
+
+# Qualifications
+
+###### M.Sc.
+*Federal University of Minas Gerais*
+_Analysis and Modeling of Environmental Systems_
+Brazil, Belo Horizonte
+Mar 2015 - May 2017
+
+###### B.Sc.
+*University of Antioquia*
+_Anthropology_
+Colombia, Medellín
+Dec 2005 - Dec 2013
+
+###### B.Eng
+*National University of Colombia* 
+_Forestry Engineer_
+Colombia, Medellín
+Jan 2005 - Jun 2012
+
+
+# Main skills and interest
+
+*	Forestry and Landscape projects; Community and Stakeholder engagement; Complex data analysis 
+*	Emissions Reduction from Deforestation, Degradation, and Agroforestry projects 
+*	Geospatial solutions; Innovative and spatial-explicit modeling scenarios
+*	Right based approaches, Free, Prior and Informed Consent (FPIC), and Stakeholder Consultation (LSC)
+
+# Work experience 
+
+* Senior Project Coordinator | Forestry & Land Use Projects , South Pole, Colombia (Jun 2017 – Jun 2021)
+* GIS | Forestry & Land Use Projects, South Pole, Colombia (Jun 2017 – Jun 2021)
+* Environmental Analyst, WWF-OIA, Colombia (May 2016 - Dec 2016)
+* Specialist: Social and Forestry consultancy, Universidad Nacional de Colombia, Colombia, Colombia (May 2016 - Jul 2016)
+* Assistant professor, Universidade Federal de Minas Gerais, Brazil (Jul 2015 - Dic 2015)
+* Land Tenure and Land Use Advisor, Indigenous Organization of Antioquia, Colombia (Jul 2013 - Feb 2015)
+* Forestry and Anthropologist (Consultancy), Renovatio Group Ltda, Colombia (Sep 2013 - May 2014)
+
+
