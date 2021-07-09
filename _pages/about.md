@@ -7,7 +7,11 @@ tags:
   - link
 link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf
 ---
-[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
+
+![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg)
+{: .full}{: .align-center}
+
+[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}{: style="text-align: right;"}
 
 I am a Forestry Engineer and Anthropologist who hold a Master's degree in analysis and modeling of environmental systems from Brazil. I have more than five years focused on AR and REDD's technical and political issues, overall associated with the voluntary carbon market under VCS and CCBs and GS.
 {: .notice--success} 
@@ -18,7 +22,8 @@ I have a solid technical background in social and biodiversity, environmental an
 
 
 ##### Contact
-: [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
+:
+  : [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
 : Phone (+57) 350-7439527
 : <address> Medellin, Colombia </address>
 
