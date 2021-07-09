@@ -29,6 +29,11 @@ I am a Forestry Engineer and Anthropologist who hold a Master's degree in analys
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
 {: .notice--success}
 
+I have been participating in carbon land-use projects that aim to reduce greenhouse gas (GHG) emissions. I had  participated in and coordinated the development of several AFOLU projects (feasibility, drivers and agents of deforestation analysis, as well as evaluation of their impacts on communities and biodiversity) in order to certify them under the internationally recognized emissions
+reduction certification schemes.
+
+Currently, I am Senior Project Manager Coordinator at South Pole.
+
 
 ## 2- Contact
 <div style="width: 100%"><iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
