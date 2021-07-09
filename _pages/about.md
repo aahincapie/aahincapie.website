@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+excerpt_separator: <!--more-->
 categories:
   - Curriculum vitae
 tags:
@@ -8,10 +9,19 @@ tags:
 link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf
 ---
 
+# Curriculum vitae
+
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
 [Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
 
+```
+{% raw %}{% include toc %}{% endraw %}
+```
+
+{% include toc %}
+
+## 1- Profile
 I am a Forestry Engineer and Anthropologist who hold a Master's degree in analysis and modeling of environmental systems from Brazil. I have more than five years focused on AR and REDD's technical and political issues, overall associated with the voluntary carbon market under VCS and CCBs and GS.
 {: .notice--success} 
 
@@ -19,41 +29,41 @@ I have a solid technical background in social and biodiversity, environmental an
 {: .notice--success}
 
 
-
-##### Contact
+## 2- Contact
 :
   : [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
 : Phone (+57) 350-7439527
 : <address> Medellin, Colombia </address>
 
+<!--more-->
 
 ## Qualifications
 
-###### M.Sc.
+##### M.Sc.
 *Federal University of Minas Gerais*
 _Analysis and Modeling of Environmental Systems_
 Brazil, Belo Horizonte
 Mar 2015 - May 2017
 
-###### B.Sc.
+##### B.Sc.
 *University of Antioquia*
 _Anthropology_
 Colombia, Medellín
 Dec 2005 - Dec 2013
 
-###### B.Eng
+##### B.Eng
 *National University of Colombia* 
 _Forestry Engineer_
 Colombia, Medellín
 Jan 2005 - Jun 2012
 
-## Research Interests
+## 3- Research Interests
 
 * Interactions among climate, land use and land cover change, and livelihoods
 * Methods and tools for integrating social and biophysical datasets to unlock voluntary carbon market
 * Modeling , mapping and data visualization
 
-## Main skills
+## 4- Main skills
 
 *	Forestry and Landscape projects; Community and Stakeholder engagement; Complex data analysis 
 *	Emissions Reduction from Deforestation, Degradation, and Agroforestry projects 
@@ -62,7 +72,7 @@ Jan 2005 - Jun 2012
 
 <!--more-->
 
-## Short-work experience 
+## 5- Short-work experience 
 
 * Senior Project Coordinator Forestry & Land Use Projects |  South Pole, Colombia (Jun 2017 – Jun 2021)
 * GIS Forestry & Land Use Projects | South Pole, Colombia (Jun 2017 – Jun 2021)
