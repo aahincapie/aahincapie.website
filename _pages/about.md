@@ -16,8 +16,9 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 [Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
 
 ```
-{% raw %}{% include toc %}{% endraw %}
+{% raw %}<!--more-->{% endraw %}
 ```
+<!--more-->
 
 {% include toc %}
 
@@ -31,48 +32,43 @@ I have a solid technical background in social and biodiversity, environmental an
 
 ## 2- Contact
 :
-  : [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
-: Phone (+57) 350-7439527
-: <address> Medellin, Colombia </address>
+ [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
+ Phone (+57) 350-7439527
+ <address> Medellin, Colombia </address>
 
-<!--more-->
 
-## Qualifications
 
-##### M.Sc.
+## 3- Qualifications
+
+* M.Sc._Analysis and Modeling of Environmental Systems_
 *Federal University of Minas Gerais*
-_Analysis and Modeling of Environmental Systems_
 Brazil, Belo Horizonte
 Mar 2015 - May 2017
 
-##### B.Sc.
+* B.Sc._Anthropology_
 *University of Antioquia*
-_Anthropology_
 Colombia, Medellín
 Dec 2005 - Dec 2013
 
-##### B.Eng
+* B.Eng _Forestry Engineer_
 *National University of Colombia* 
-_Forestry Engineer_
 Colombia, Medellín
 Jan 2005 - Jun 2012
 
-## 3- Research Interests
+## 4- Research Interests
 
 * Interactions among climate, land use and land cover change, and livelihoods
 * Methods and tools for integrating social and biophysical datasets to unlock voluntary carbon market
 * Modeling , mapping and data visualization
 
-## 4- Main skills
+## 5- Main skills
 
 *	Forestry and Landscape projects; Community and Stakeholder engagement; Complex data analysis 
 *	Emissions Reduction from Deforestation, Degradation, and Agroforestry projects 
 *	Geospatial solutions; Innovative and spatial-explicit modeling scenarios
 *	Right based approaches, Free, Prior and Informed Consent (FPIC), and Stakeholder Consultation (LSC)
 
-<!--more-->
-
-## 5- Short-work experience 
+## 6- Short-work experience 
 
 * Senior Project Coordinator Forestry & Land Use Projects |  South Pole, Colombia (Jun 2017 – Jun 2021)
 * GIS Forestry & Land Use Projects | South Pole, Colombia (Jun 2017 – Jun 2021)
