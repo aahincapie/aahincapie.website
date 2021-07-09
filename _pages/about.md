@@ -13,7 +13,7 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
+[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success} ---:
 
 ```
 {% raw %}<!--more-->{% endraw %}
@@ -31,29 +31,29 @@ I have a solid technical background in social and biodiversity, environmental an
 
 
 ## 2- Contact
-<div style="width: 100%"><iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=800&amp;height=400&amp;hl=en&amp;q=6.242168132753557,%20-75.61243567383421+(My%20Home%20Office)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="800" height="400" frameborder="0"></iframe><a href="https://www.maps.ie/draw-radius-circle-map/">Easy radius map</a></div>
-- Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)
-- Phone: (+57) 350-7439527
--Andress: <address> Medellin, Colombia </address>
-
+<div style="width: 100%"><iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
+src="https://www.google.com/maps/embed/v1/place?q=place_id:EjhQYXJxdWVhZGVybyBHdWFkYXJyYW1hIDEsIE1lZGVsbMOtbiwgQW50aW9xdWlhLCBDb2xvbWJpYSIuKiwKFAoSCRG3plWEKUSOEYjw-AsS8iBFEhQKEgnb3VJO7yhEjhFyrHCSw9Yvcg&key=..."></iframe></div>
+Address: <address> Medellin, Colombia </address>  
+Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
+Phone: (+57) 350-7439527  
 
 
 ## 3- Qualifications
 
-* **M.Sc.** Analysis and Modeling of Environmental Systems
-[Federal University of Minas Gerais](https://ufmg.br/)
-Brazil, Belo Horizonte
-Mar 2015 - May 2017
+* **M.Sc.** Analysis and Modeling of Environmental Systems  
+[Federal University of Minas Gerais](https://ufmg.br/)  
+Brazil, Belo Horizonte  
+Mar 2015 - May 2017  
 
-* **B.Sc.** Anthropology
-[University of Antioquia](https://www.udea.edu.co)
-Colombia, Medellín
-Dec 2005 - Dec 2013
+* **B.Sc.** Anthropology  
+[University of Antioquia](https://www.udea.edu.co)  
+Colombia, Medellín  
+Dec 2005 - Dec 2013  
 
-* **B.Eng** Forestry
-[National University of Colombia](https://unal.edu.co/)
-Colombia, Medellín
-Jan 2005 - Jun 2012
+* **B.Eng** Forestry  
+[National University of Colombia](https://unal.edu.co/)  
+Colombia, Medellín  
+Jan 2005 - Jun 2012  
 
 ## 4- Research Interests
 
