@@ -13,7 +13,7 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download complete CV -draft- as PDF</a>
+<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download complete CV -draft- (PDF)</a>
 
 {% include toc %}
 
@@ -32,8 +32,7 @@ Currently, I am Senior Project Manager Coordinator at South Pole.
 
 <!--more-->
 ## 2- Contact
-<iframe width="972" height="333" id="gmap_canvas" src="https://maps.google.com/maps?q=Cll%2034%20No%2086a%2041,%20Medellin&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
+<iframe width="600" height="333" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.303731077851!2d-75.61549547581298!3d6.2437079819219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e44298490efb9b9%3A0x95109acfcce06974!2sSanta%20Teresita%2C%20Medell%C3%ADn%2C%20Medellin%2C%20Antioquia!5e0!3m2!1sen!2sco!4v1625969104000!5m2!1sen!2sco" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>  
 <address> Medellin, Colombia </address>  
 Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
 Phone: (+57) 350-7439527  
@@ -54,7 +53,7 @@ Colombia, Medellín
 Dec 2005 - Dec 2013  
 
 * **B.Eng** Forestry  
-[National University of Colombia](https://unal.edu.co/) 
+[National University of Colombia](https://unal.edu.co/)  
 Faculty of Agrarian Sciences   
 Colombia, Medellín  
 Jan 2005 - Jun 2012  
