@@ -13,9 +13,7 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-<p align="center">
-[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
-</p>
+<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download CV as PDF</a>
 
 {% raw %}<!--Download complete CV draft as pdf-->{% endraw %}
 {% include toc %}
