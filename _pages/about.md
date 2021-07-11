@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 categories:
   - Curriculum vitae
 tags:
@@ -13,13 +13,9 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success} ---:
+[Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success}
 
-```
 {% raw %}<!--download draft pdf-->{% endraw %}
-```
-<!--more-->
-
 {% include toc %}
 
 ## 1- Profile
@@ -35,10 +31,10 @@ I have been participating in carbon land-use projects that aim to reduce greenho
 Currently, I am Senior Project Manager Coordinator at South Pole.
 {: .notice--success}
 
-
+<!--more-->
 ## 2- Contact
 <iframe width="972" height="333" id="gmap_canvas" src="https://maps.google.com/maps?q=Cll%2034%20No%2086a%2041,%20Medellin&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><
-Address: <address> Medellin, Colombia </address>  
+<address> Medellin, Colombia </address>  
 Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
 Phone: (+57) 350-7439527  
 
@@ -85,6 +81,14 @@ Jan 2005 - Jun 2012
 * Assistant professor | Universidade Federal de Minas Gerais, Brazil (Jul 2015 - Dic 2015)
 * Land Tenure and Land Use Advisor | Indigenous Organization of Antioquia, Colombia (Jul 2013 - Feb 2015)
 * Forestry and Anthropologist (Consultancy)| Renovatio Group Ltda, Colombia (Sep 2013 - May 2014)
+
+## 7- References
+
+* **Britaldo Soares-Filho** [Google Scholar](https://scholar.google.com/citations?user=0r083BYAAAAJ&hl=en)  
+* **Sonia Maria Carvalho** [Google Scholar](https://scholar.google.com/citations?user=FwrTKjQAAAAJ&hl=en)
+* **Beatriz Zapata** 
+* **Dolors Almenteras**
+* ...
 
 
 Download as PDF:
