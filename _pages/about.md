@@ -13,9 +13,8 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download CV as PDF</a>
+<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download complete CV -draft- as PDF</a>
 
-{% raw %}<!--Download complete CV draft as pdf-->{% endraw %}
 {% include toc %}
 
 ## 1- Profile
@@ -83,11 +82,11 @@ Jan 2005 - Jun 2012
 * Forestry and Anthropologist (Consultancy)| Renovatio Group Ltda, Colombia (Sep 2013 - May 2014)
 
 ## 7- References
+_Underconstruction_
 
-I was the opportunity to cross many people in bachelor carrers as **Rober Dover** https://www.youtube.com/watch?v=Ev8FddReiPk&t=69s 
+I have had the opportunity to share closely with incredible people in the public, private and academic sectors.
 
-* **Britaldo Soares-Filho** [Google Scholar](https://scholar.google.com/citations?user=0r083BYAAAAJ&hl=en)  
-* **Sonia Maria Carvalho** [Google Scholar](https://scholar.google.com/citations?user=FwrTKjQAAAAJ&hl=en)
+I highlight the role in my bachelor carrer of **Rober Dover**  https://www.youtube.com/watch?v=Ev8FddReiPk&t=69s, * **Britaldo Soares-Filho** [Google Scholar](https://scholar.google.com/citations?user=0r083BYAAAAJ&hl=en)  , * **Sonia Maria Carvalho** [Google Scholar](https://scholar.google.com/citations?user=FwrTKjQAAAAJ&hl=en)
 * **Beatriz Zapata** 
 * **Dolors Almenteras**
 * ...
