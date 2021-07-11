@@ -32,7 +32,8 @@ Currently, I am Senior Project Manager Coordinator at South Pole.
 
 <!--more-->
 ## 2- Contact
-<iframe width="972" height="333" id="gmap_canvas" src="https://maps.google.com/maps?q=Cll%2034%20No%2086a%2041,%20Medellin&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><
+<iframe width="972" height="333" id="gmap_canvas" src="https://maps.google.com/maps?q=Cll%2034%20No%2086a%2041,%20Medellin&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
 <address> Medellin, Colombia </address>  
 Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
 Phone: (+57) 350-7439527  
