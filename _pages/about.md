@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 categories:
   - Curriculum vitae
 tags:
@@ -16,7 +16,7 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 [Download CV as PDF](https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf){: .btn .btn--success} ---:
 
 ```
-{% raw %}<!--more-->{% endraw %}
+{% raw %}<!--download draft pdf-->{% endraw %}
 ```
 <!--more-->
 
@@ -29,15 +29,15 @@ I am a Forestry Engineer and Anthropologist who hold a Master's degree in analys
 I have a solid technical background in social and biodiversity, environmental and governance impact assessment, love work with mapping, and have experience working with Latinamerican contexts as Brazil and Colombia. I am fluent in English, Portuguese and, Spanish (mother tongue).
 {: .notice--success}
 
-I have been participating in carbon land-use projects that aim to reduce greenhouse gas (GHG) emissions. I had  participated in and coordinated the development of several AFOLU projects (feasibility, drivers and agents of deforestation analysis, as well as evaluation of their impacts on communities and biodiversity) in order to certify them under the internationally recognized emissions
-reduction certification schemes.
+I have been participating in carbon land-use projects that aim to reduce greenhouse gas (GHG) emissions. I had  participated in coordination the development of several AFOLU projects (feasibility, potential, additionality, theory of change(ToC) and GHG emission etimations) in order to certify them under the internationally recognized emissions reduction certification schemes.
+{: .notice--success}
 
 Currently, I am Senior Project Manager Coordinator at South Pole.
+{: .notice--success}
 
 
 ## 2- Contact
-<div style="width: 100%"><iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
-src="https://www.google.com/maps/embed/v1/place?q=place_id:EjhQYXJxdWVhZGVybyBHdWFkYXJyYW1hIDEsIE1lZGVsbMOtbiwgQW50aW9xdWlhLCBDb2xvbWJpYSIuKiwKFAoSCRG3plWEKUSOEYjw-AsS8iBFEhQKEgnb3VJO7yhEjhFyrHCSw9Yvcg&key=..."></iframe></div>
+<iframe width="972" height="333" id="gmap_canvas" src="https://maps.google.com/maps?q=Cll%2034%20No%2086a%2041,%20Medellin&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><
 Address: <address> Medellin, Colombia </address>  
 Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
 Phone: (+57) 350-7439527  
@@ -47,16 +47,19 @@ Phone: (+57) 350-7439527
 
 * **M.Sc.** Analysis and Modeling of Environmental Systems  
 [Federal University of Minas Gerais](https://ufmg.br/)  
+Institute of Geosciences (IGC / UFMG)  
 Brazil, Belo Horizonte  
 Mar 2015 - May 2017  
 
 * **B.Sc.** Anthropology  
 [University of Antioquia](https://www.udea.edu.co)  
+Faculty of Social Sciences and Humanities  
 Colombia, Medellín  
 Dec 2005 - Dec 2013  
 
 * **B.Eng** Forestry  
-[National University of Colombia](https://unal.edu.co/)  
+[National University of Colombia](https://unal.edu.co/) 
+Faculty of Agrarian Sciences   
 Colombia, Medellín  
 Jan 2005 - Jun 2012  
 
