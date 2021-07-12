@@ -6,14 +6,14 @@ categories:
   - Curriculum vitae
 tags:
   - link
-link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf
+link: https://github.com/aahincapie/aahincapie.github.io/raw/master/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf
 ---
 
 # Curriculum vitae
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download CV as PDF</a>
+<a href="https://github.com/aahincapie/aahincapie.github.io/raw/master/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download CV as PDF</a>
 
 {% include toc %}
 
