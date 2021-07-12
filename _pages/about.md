@@ -13,7 +13,7 @@ link: https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a845167
 
 ![Unsplash cv 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-cv-10.jpg){: .full}
 
-<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download complete CV -draft- (PDF)</a>
+<a href="https://github.com/aahincapie/aahincapie.github.io/blob/3fdcf12bad5a8451676bf16cda867004a6404009/assets/images/2021_07_CV_AdolfoAndresHincapie.pdf" class="btn btn--success" style="float:right" >Download CV as PDF</a>
 
 {% include toc %}
 
@@ -31,11 +31,13 @@ Currently, I am Senior Project Manager Coordinator at South Pole.
 {: .notice--success}
 
 <!--more-->
+
 ## 2- Contact
-<iframe width="600" height="333" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.303731077851!2d-75.61549547581298!3d6.2437079819219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e44298490efb9b9%3A0x95109acfcce06974!2sSanta%20Teresita%2C%20Medell%C3%ADn%2C%20Medellin%2C%20Antioquia!5e0!3m2!1sen!2sco!4v1625969104000!5m2!1sen!2sco" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>  
-<address> Medellin, Colombia </address>  
 Email:  [aahincap@unal.edu.co](mailto:aahincap@unal.edu.co), [bandreshin@gmail.com](mailto:bandreshin@gmail.com)  
 Phone: (+57) 350-7439527  
+<iframe width="100%" height="333" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7932.303731077851!2d-75.61549547581298!3d6.2437079819219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e44298490efb9b9%3A0x95109acfcce06974!2sSanta%20Teresita%2C%20Medell%C3%ADn%2C%20Medellin%2C%20Antioquia!5e0!3m2!1sen!2sco!4v1625969104000!5m2!1sen!2sco" frameborder="0" scrolling="0" marginheight="0" marginwidth="0"></iframe>  
+<address> Medellin, Colombia. Postcode: 050020 </address>  
+
 
 
 ## 3- Qualifications
@@ -86,10 +88,18 @@ _Underconstruction_
 
 I have had the opportunity to share closely with incredible people in the public, private and academic sectors.
 
-I highlight the role in my bachelor carrer of **Rober Dover**  https://www.youtube.com/watch?v=Ev8FddReiPk&t=69s, * **Britaldo Soares-Filho** [Google Scholar](https://scholar.google.com/citations?user=0r083BYAAAAJ&hl=en)  , * **Sonia Maria Carvalho** [Google Scholar](https://scholar.google.com/citations?user=FwrTKjQAAAAJ&hl=en)
-* **Beatriz Zapata** 
+I highlight the role in my bachelor carrer of **Rober Dover**  https://www.youtube.com/watch?v=Ev8FddReiPk&t=69s, 
+* **Britaldo Soares-Filho** [Google Scholar](https://scholar.google.com/citations?user=0r083BYAAAAJ&hl=en)  , 
+* **Sonia Maria Carvalho** [Google Scholar](https://scholar.google.com/citations?user=FwrTKjQAAAAJ&hl=en)
+* **Abel Marcarini** 
 * **Dolors Almenteras**
 * ...
 
+
+## 8- Tools
+•	Database management under: [.GDB].GDB .MDB .ARCSDE .MYSQ
+•	Remote sensing analysis and visualization: ENVI; ERDAS; IDRISI; ArcMap; ArcScene
+•	REDD+ analysis tools: DINAMICA-EGO IDRISI-SELVA, SPRING
+•	R programming Language and, GEE essential codes
 
 Download as PDF:
