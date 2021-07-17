@@ -62,9 +62,9 @@ plugins:
   - jekyli-algolia
 
 author:
-  name   : "Andres Hincapie"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Forestry, Anthropologist, Spatial Analyst, and Modeler of Environmental and Social Systems. Interested in: Ecosystem Services Market, Tools to unlock Natural-Based Solutions. <br/ >  
+  name   : "Andrés Hincapie"
+  avatar : "/assets/images/bio-photo_bw.jpg"
+  bio    : "Forestry, Anthropologist, Spatial Analyst, and Modeler of Environmental and Social Systems. Interested in: Ecosystem Services Market, Tools to unlock Natural-Based Solutions. <br />  
     An smart coffee drinker, landowner a small-farm **La Montaña Azul** (small-scale project). <br />  
     *Hiking, drive, planting, cooking and DYI activities are other passions.*"  
   location  : "Medellin, Colombia"
