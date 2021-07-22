@@ -40,10 +40,13 @@ We also harmonized metadata for each protocol, categorized which
 agricultural practices were included, and produced a timeline showing 
 the relationship between project activity, crediting, verification, and 
 claimed permanence. The full results, including comments and references 
-for all dimensions we evaluated, are available as an  as well as downloadable <a href="https://storage.googleapis.com/carbonplan-research/articles/soil-protocols/CarbonPlan-Soil-Protocols.csv" class="css-wwmakc">CSV</a> and <a href="https://storage.googleapis.com/carbonplan-research/articles/soil-protocols/CarbonPlan-Soil-Protocols.json" class="css-wwmakc">JSON</a> files.</p><p class="css-13hj20z">  
+for all dimensions we evaluated, are available as an  as well as downloadable <a href="https://storage.googleapis.com/carbonplan-research/articles/soil-protocols/CarbonPlan-Soil-Protocols.csv" class="css-wwmakc">CSV</a> and <a href="https://storage.googleapis.com/carbonplan-research/articles/soil-protocols/CarbonPlan-Soil-Protocols.json" class="css-wwmakc">JSON</a> files.    
 
 In  the chart below, we summarize our results by showing scores for rigor, additionality, durability, and safeguards, alongside our overall rating 
-across the full set of protocols.</p><div class="css-vhajwh"><div class="css-68vda7"><div class="css-11n4m0c"><div class="css-snzfv">Rigor</div></div><div class="css-1peojac"><div class="css-snzfv">Additionality</div></div><div class="css-16cmlmb"><div class="css-snzfv">Durability</div></div><div class="css-1b9uc2q"><div class="css-snzfv">Safeguards</div></div><div class="css-1uc22q8"><div class="css-snzfv">Rating</div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">ACR C</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">ACR G</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">BCarbon</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-3igjs8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">CAR Soil</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">FAO</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-3igjs8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Gold Std</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Nori</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Plan Vivo</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Regen</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Verra FG</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Verra IA</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Verra Soil</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-3igjs8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Verra SA</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div><div class="css-duuntm"><div class="css-ltq816"><div class="css-12cluvd">Verra SG</div></div><div class="css-11n4m0c"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1peojac"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-16cmlmb"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1b9uc2q"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-9227n8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-9227n8"></rect></svg></div></div><div class="css-1uc22q8"><div class="css-1mmydx5"><div class="css-2cueu5"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-1g13t4r"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-15n2uxl"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-fv0e26"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-11yrwoj"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div><div class="css-gw584a"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" stroke="currentColor" class="css-hky1w0"><polyline style="vector-effect:non-scaling-stroke" points="1.41,12.53 8.12,19.24 22.59,4.76 "></polyline></svg></div></div></div></div></div><figcaption class="css-8ypwj5"><div class="css-1kj7774">FIGURE <!-- -->1</div> <div class="css-t95sjb">/</div>Summary
+across the full set of protocols.
+
+FIGURE <!-- -->
+## Summary
  table of our results. Each protocol is a row. The first four columns 
 show scores along four individual metrics (each on a scale from 1 to 3) 
 and the final column shows the overall rating (on a scale from 1 to 5). 
@@ -57,13 +60,15 @@ protocols we reviewed credit some combination of carbon removal and
 avoided emissions, including CO₂ emissions unrelated to soil carbon 
 (e.g. tractor use), and in some cases other greenhouse gases like N₂O 
 and CH₄ that result from fertilizer use, grazing animals, or anaerobic 
-decomposition.<span class="css-qrli5z"><span class="css-172zaon"><sup>1</sup></span><span class="css-1k3yyyr"><span class="css-vurnku"><span class="css-xzcb66"><span class="css-1sztpic">1</span><span class="css-18w35j">Technically,
- increases to soil carbon stocks themselves include a mixture of carbon 
+decomposition.
+Technically,  increases to soil carbon stocks themselves include a mixture of carbon 
 removal and avoiding carbon loss, though the combined effect of these 
-mechanisms is often referred to as carbon removal.<!-- --> <!-- --> <!-- --> <i></i> </span></span></span></span></span>
+mechanisms is often referred to as carbon removal.<!-- --> <!-- --> <!-- --> <i></i>
+
+
  No protocols track carbon removal and avoided emissions separately, so 
 buyers looking to focus exclusively on carbon removal must decipher this
- distinction themselves.</p><p class="css-13hj20z">Another challenge 
+ distinction themselves.  Another challenge 
 followed from the breadth of protocol applicability. The protocols we 
 reviewed apply to a range of geographies and a wide variety of land 
 management practices, including cropping, tillage, grazing, managing 
@@ -73,7 +78,7 @@ level of methodological abstraction and user optionality. The
 combination of opaque rules and multiple pathways to satisfying protocol
  requirements makes it difficult to determine what requirements are 
 actually in place, and therefore what buyers can expect as guaranteed 
-outcomes.</p><p class="css-13hj20z">In the sections below, we describe 
+outcomes.  In the sections below, we describe 
 our cross-cutting, metric-by-metric observations. For each metric, we 
 start by explaining how we arrived at our scores.</p><h2 id="rigor" class="css-l5ychx">Rigor</h2><p class="css-13hj20z">Our rigor metric analyzes the scientific integrity and methodological robustness of soil carbon quantification.</p><div class="css-1j5zx4p"><hr class="css-ip5101"><div class="css-xeezea"><div class="css-14sx05d"><div class="css-1xmhggq"><svg stroke="none" fill="none" class="css-1y3uaem"><rect x="0" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="36%" y="0" width="31%" height="12" class="css-3igjs8"></rect><rect x="72%" y="0" width="31%" height="12" class="css-3igjs8"></rect></svg></div></div><div class="css-1fyp62u">Protocol
  uses empirical crediting based directly on soil sampling and overall 
@@ -93,7 +98,7 @@ protocols require direct sampling as the basis for issuing soil carbon
 credits (which we call “empirical crediting”). Others require sampling 
 to calibrate or parameterize models, but not to issue credits. Several 
 protocols do not require sampling at all, relying exclusively on models 
-to estimate soil carbon changes and issue credits.</p><p class="css-13hj20z">This
+to estimate soil carbon changes and issue credits.  This
  pattern is concerning because models are imperfect analogs when it 
 comes to soil carbon. They rely on a number of assumptions which may not
  be applicable in specific contexts and can lead to incorrect 
@@ -103,7 +108,7 @@ and accrual of soil carbon over time, including that it increases
 linearly, that fields are in a state of equilibrium, and that proxy 
 measurements like remote sensing can accurately conceptualize ecosystem 
 processes. The most rigorous models still use measurements for 
-calibration, and thus depend on high-quality sampling approaches.</p><p class="css-13hj20z">Where
+calibration, and thus depend on high-quality sampling approaches.  Where
  sampling is required in today’s protocols, the quality requirements are
  generally poor. With only a few exceptions, protocols fail to require 
 rigorous stratification, sampling randomization, adequate sampling 
@@ -114,7 +119,7 @@ weaknesses — BCarbon’s protocol, for example, does not provide specific
 guidance on sampling depth, and it does not track additional greenhouse 
 gases, leaving open the possibility of boosting local soil carbon gains 
 with external amendments like fertilizer without properly accounting for
- their emissions.</p><p class="css-13hj20z">Notably, two of the three 
+ their emissions.  Notably, two of the three 
 protocols with robust sampling requirements — Verra Soil and BCarbon — 
 reference or adopt a common protocol module from 2012, Verra’s 
 Estimation of Stocks in the Soil Carbon Pool (VMD0021). Another, Gold 
@@ -143,7 +148,7 @@ geographic resolution that masks real-world market trends.</div></div><div class
 additionality. Only one protocol (Verra’s 2020 Improved Agriculture 
 protocol) adequately protects against large-scale non-additional 
 crediting, but even it does not provide sufficient assurance of project 
-additionality.<span class="css-qrli5z"><span class="css-172zaon"><sup>4</sup></span><a href="https://grist.org/agriculture/us-carbon-removal-capture-offset-forests-farms-trees-soil/" class="css-1k3yyyr"><span class="css-vurnku"><span class="css-xzcb66"><span class="css-1sztpic">4</span><span class="css-18w35j">A recent article in Grist suggests that many soil projects today are non-additional.<!-- --> <!-- --> <!-- --> <i></i> </span></span></span></a></span></p><p class="css-13hj20z">A majority of the protocols apply or replicate the much-criticized Clean Development Mechanism additionality standards,<span class="css-qrli5z"><span class="css-172zaon"><sup>5</sup></span><a href="https://doi.org/10.3763/cpol.2008.0533" class="css-1k3yyyr"><span class="css-vurnku"><span class="css-xzcb66"><span class="css-1sztpic">5</span><span class="css-18w35j">L Schneider<!-- --> <!-- -->(2009)<!-- --> <!-- -->Assessing the additionality of CDM projects: practical experiences and lessons learned<!-- --> <i>Climate Policy</i> </span></span></span></a></span>
+additionality.<span class="css-qrli5z"><span class="css-172zaon"><sup>4</sup></span><a href="https://grist.org/agriculture/us-carbon-removal-capture-offset-forests-farms-trees-soil/" class="css-1k3yyyr"><span class="css-vurnku"><span class="css-xzcb66"><span class="css-1sztpic">4</span><span class="css-18w35j">A recent article in Grist suggests that many soil projects today are non-additional.<!-- --> <!-- --> <!-- --> <i></i> </span></span></span></a></span>  A majority of the protocols apply or replicate the much-criticized Clean Development Mechanism additionality standards,<span class="css-qrli5z"><span class="css-172zaon"><sup>5</sup></span><a href="https://doi.org/10.3763/cpol.2008.0533" class="css-1k3yyyr"><span class="css-vurnku"><span class="css-xzcb66"><span class="css-1sztpic">5</span><span class="css-18w35j">L Schneider<!-- --> <!-- -->(2009)<!-- --> <!-- -->Assessing the additionality of CDM projects: practical experiences and lessons learned<!-- --> <i>Climate Policy</i> </span></span></span></a></span>
  including the Verra Improved Agriculture protocol. A few protocols, 
 like Nori, Regen Network, and BCarbon, simply do not address 
 additionality at all. In other cases, protocols appear to be designed to
@@ -152,7 +157,7 @@ example, Verra’s Improved Agriculture protocol requires projects to
 identify peer-reviewed evidence of “barriers” to their deployment, but 
 then provides example citations that could substantiate barriers to any 
 agricultural practice changes — effectively providing an answer to its 
-own question.</p><p class="css-13hj20z">In a similar vein, the Climate 
+own question.  In a similar vein, the Climate 
 Action Reserve’s protocol (CAR Soil) features a convoluted test that 
 enables projects to treat all practices as additional. This protocol 
 uses a common practice approach to additionality that defines activities
@@ -168,7 +173,7 @@ defines practices with a greater than 50% adoption as non-additional, it
  combined with other practices that featured a less-than-50% adoption 
 rate. Thus, projects that combine multiple practices can easily avoid 
 the superficial prohibition on commonly adopted practices — an outcome 
-that, in our view, creates the <a href="https://carbonplan.org/research/soil-carbon-comment" class="css-wwmakc">false appearance of an additionality standard</a>.</p><p class="css-13hj20z">The
+that, in our view, creates the <a href="https://carbonplan.org/research/soil-carbon-comment" class="css-wwmakc">false appearance of an additionality standard</a>.  The
  lack of meaningful additionality testing across all the protocols we 
 analyzed highlights the need for buyers to consider additionality 
 carefully in their deliberations. We recommend that buyers specifically 
@@ -180,7 +185,7 @@ induce a change in land management decisions.<span class="css-qrli5z"><span clas
 particularly reliable, as of course projects have the incentive to make 
 an unbalanced case. But that is exactly why protocols are supposed to 
 help filter out the less-credible claims, and therefore why the lack of 
-rigorous standards is a problem.<!-- --> <!-- --> <!-- --> <i></i> </span></span></span></span></span></p><p class="css-13hj20z">Beyond
+rigorous standards is a problem.<!-- --> <!-- --> <!-- --> <i></i> </span></span></span></span></span>  Beyond
  explicit additionality tests, how a protocol treats the timing of 
 activity adoption and crediting has important implications for 
 additionality outcomes. Consider the example of a land manager who 
@@ -189,7 +194,7 @@ the past. If the protocol allows a land manager to earn credit for her
 earlier change, it might compensate “early adopters” but would do so at 
 the expense of offset credit additionality because paying someone for a 
 change they adopted in the distant past does not change soil carbon 
-outcomes.</p><p class="css-13hj20z">To help visualize how key project 
+outcomes.  To help visualize how key project 
 milestones impact crediting, we created a timeline for each protocol 
 that shows when an eligible activity could have been implemented 
 relative to project registration, and for what period soil carbon 
@@ -206,12 +211,12 @@ entirety of that historical period; others restrict the crediting window
  while still allowing older practice changes to earn credits going 
 forward. If a buyer wants confidence that their purchase creates climate
  benefits that would not have happened otherwise, either type of 
-backdating raises concerns.</p><p class="css-13hj20z">The logistics of 
+backdating raises concerns.  The logistics of 
 registering and crediting projects makes it impossible to 
 instantaneously recognize changes in land management practice, so a 
 modest amount of backdating can be justified. To establish a causal 
 relationship between carbon financing and climate benefits, however, any
- delay should be minimized.</p><p class="css-13hj20z">We note that not 
+ delay should be minimized.  We note that not 
 all buyers need to be concerned with additionality. If a government 
 program seeks to compensate land managers for their beneficial 
 practices, including paying “early adopters” who had already changed 
@@ -235,18 +240,18 @@ thousands of years. Effective carbon removal needs to <a href="https://carbonpla
 atmosphere again. No intervention in an agricultural system can 
 guarantee outcomes over hundreds of years, but we can look to the 
 permanence required by protocols and the protections they provide to 
-ensure outcomes over those time horizons.</p><p class="css-13hj20z">We 
+ensure outcomes over those time horizons.  We 
 did not find any protocols that achieved a high bar for durability, 
 which requires both a long permanence period and robust risk management 
 provisions. Only one of the protocols (CAR Soil) requires a permanence 
 period approaching 100 years, but its risk management provisions are 
 relatively weak. The other protocols adopt permanence periods between 8 
-and 40 years.</p><p class="css-13hj20z">Of the protocols with shorter 
+and 40 years.  Of the protocols with shorter 
 permanence periods, risk management protections are also generally weak.
  One protocol (Nori) has no explicit protections. The majority of 
 protocols adopt general registry rules for risk analysis and mitigation,
  which typically involve projects setting aside a number of credits in a
- registry-managed <a href="https://carbonplan.org/research/offset-project-fire" class="css-5k9301">buffer pool</a> that can be drawn down to account for “reversals” (or carbon loss) over time.</p><p class="css-13hj20z">Buffer
+ registry-managed <a href="https://carbonplan.org/research/offset-project-fire" class="css-5k9301">buffer pool</a> that can be drawn down to account for “reversals” (or carbon loss) over time.  Buffer
  pool contributions are determined by a variety of approaches across the
  protocols. Ironically, the highest mandatory buffer pool contribution 
 we observed comes from the simplest approach: Gold Standard requires 
@@ -258,16 +263,16 @@ buffer contribution. ACR protocols similarly require projects to rate
 risk across up to 8 categories, resulting in a 8-16% buffer 
 contribution. The CAR Soil protocol takes a slightly different approach,
  featuring a simple lookup table that results in a 5-17% buffer 
-contribution.</p><p class="css-13hj20z">Notably, the buffer 
+contribution.  Notably, the buffer 
 contributions did not clearly correlate with claimed permanence 
 horizons. In other words, a 10-year permanence claim and a 100-year 
 permanence claim could both end up ensured by a 10% buffer contribution.
  This inconsistency implies that either permanence estimates or buffer 
-contributions have been calculated incorrectly — and possibly both.</p><p class="css-13hj20z">In
+contributions have been calculated incorrectly — and possibly both.  In
  two cases (Gold Standard and ACR), registry rules allow a project to 
 satisfy its buffer pool contribution requirement with credits from 
 another project. This scheme enables credits from older or lower-quality
- projects to fulfill buffer pool obligations. Given the <a href="https://trove-intelligence.com/" class="css-wwmakc">surplus credits available in the market</a>, flexible contribution rules raise concerns about buffer pools’ efficacy, regardless of their size.</p><p class="css-13hj20z">Our
+ projects to fulfill buffer pool obligations. Given the <a href="https://trove-intelligence.com/" class="css-wwmakc">surplus credits available in the market</a>, flexible contribution rules raise concerns about buffer pools’ efficacy, regardless of their size.  Our
  main takeaway on durability is that the numbers parametrizing risk 
 mitigation measures are not the result of particularly clear or 
 empirical considerations of risks. Rarely, if ever, are risks calibrated
@@ -284,19 +289,25 @@ environment.</p><div class="css-1j5zx4p"><hr class="css-ip5101"><div class="css-
 around landowner protections, data privacy, or community engagement. 
 Most are simply silent. In a couple of cases, protocols gesture towards 
 these issues with recommendations or plans for future engagement, but 
-these provisions are far from robust and lack specificity.</p><p class="css-13hj20z">As
+these provisions are far from robust and lack specificity.  As
  researchers without deep expertise in social and local environmental 
 safeguards, we hesitate to say what should be required or how to ensure 
 that standards deliver more than a box-checking exercise. Nevertheless, 
 the near-total absence of even superficial standards was notable in a 
 sector where land use decisions can have profound impacts on communities
- and local environments.</p><h2 id="conclusions" class="css-l5ychx">Conclusions</h2><p class="css-13hj20z">In
+ and local environments.
+ 
+ ## Conclusions
+ In
  the vast majority of cases, the standards set by these protocols cannot
  be used to provide confidence around project quality. Buyers can’t rely
  on existing protocols to know whether a project was rigorously 
 credited, and sellers can’t invoke or rely on the status quo rules to 
 demonstrate quality. The question of defining a good project must be 
-answered, instead, outside of the voluntary market’s formal rules.</p><blockquote class="css-1em2oc2"><div class="css-1vqx70z">Buyers can’t rely on existing protocols to know whether a project was rigorously credited</div></blockquote><p class="css-13hj20z">To
+answered, instead, outside of the voluntary market’s formal rules.
+
+> Buyers can’t rely on existing protocols to know whether a project was rigorously credited
+
  be clear, we didn’t analyze individual projects here. It’s entirely 
 possible that individual projects credited under these protocols perform
  far better than the minimum bar set by a given protocol. On the other 
@@ -304,7 +315,7 @@ hand, it’s also possible for projects to exploit ambiguities in
 otherwise seemingly rigorous components of a protocol. Our core finding 
 is that buyers must analyze individual projects to determine whether 
 they meet a reasonable definition of quality, since none of the 
-protocols provides adequate assurances.</p><p class="css-13hj20z">One of
+protocols provides adequate assurances.  One of
  our most striking results is that most protocols set a low bar on soil 
 sampling quality, which we consider essential to issuing robust carbon 
 credits. One possible explanation is that choosing to not require robust
@@ -312,129 +323,4 @@ credits. One possible explanation is that choosing to not require robust
 of market uptake, especially when buyers are unaware of or relatively 
 unconcerned with credit quality. The risk, of course, is that not 
 sampling, or sampling poorly, leads to a higher probability of issuing 
-credits that do not represent real carbon removal.</p><p 
-
-
-
-
-Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who's on first, What's on second, I Don't Know is on third--
-
-Costello: That's what I want to find out. I want you to tell me the names of the fellows on the St. Louis team.
-
-Abbott: I'm telling you. Who's on first, What's on second, I Don't Know is on third--
-
-Costello: You know the fellows' names?
-
-Abbott: Yes.
-
-Costello: Well, then who's playing first?
-
-Abbott: Yes.
-
-Costello: I mean the fellow's name on first base.
-
-Abbott: Who.
-
-Costello: The fellow playin' first base.
-
-Abbott: Who.
-
-Costello: The guy on first base.
-
-Abbott: Who is on first.
-
-Costello: Well, what are you askin' me for?
-
-Abbott: I'm not asking you--I'm telling you. Who is on first.
-
-Costello: I'm asking you--who's on first?
-
-Abbott: That's the man's name.
-
-Costello: That's who's name?
-
-Abbott: Yes.
-
-Costello: When you pay off the first baseman every month, who gets the money?
-
-Abbott: Every dollar of it. And why not, the man's entitled to it.
-
-Costello: Who is?
-
-Abbott: Yes.
-
-Costello: So who gets it?
-
-Abbott: Why shouldn't he? Sometimes his wife comes down and collects it.
-
-Costello: Who's wife?
-
-Abbott: Yes. After all, the man earns it.
-
-Costello: Who does?
-
-Abbott: Absolutely.
-
-Costello: Well, all I'm trying to find out is what's the guy's name on first base?
-
-Abbott: Oh, no, no. What is on second base.
-
-Costello: I'm not asking you who's on second.
-
-Abbott: Who's on first!
-
-Costello: St. Louis has a good outfield?
-
-Abbott: Oh, absolutely.
-
-Costello: The left fielder's name?
-
-Abbott: Why.
-
-Costello: I don't know, I just thought I'd ask.
-
-Abbott: Well, I just thought I'd tell you.
-
-Costello: Then tell me who's playing left field?
-
-Abbott: Who's playing first.
-
-Costello: Stay out of the infield! The left fielder's name?
-
-Abbott: Why.
-
-Costello: Because.
-
-Abbott: Oh, he's center field.
-
-Costello: Wait a minute. You got a pitcher on this team?
-
-Abbott: Wouldn't this be a fine team without a pitcher?
-
-Costello: Tell me the pitcher's name.
-
-Abbott: Tomorrow.
-
-Costello: Now, when the guy at bat bunts the ball--me being a good catcher--I want to throw the guy out at first base, so I pick up the ball and throw it to who?
-
-Abbott: Now, that's he first thing you've said right.
-
-Costello: I DON'T EVEN KNOW WHAT I'M TALKING ABOUT!
-
-Abbott: Don't get excited. Take it easy.
-
-Costello: I throw the ball to first base, whoever it is grabs the ball, so the guy runs to second. Who picks up the ball and throws it to what. What throws it to I don't know. I don't know throws it back to tomorrow--a triple play.
-
-Abbott: Yeah, it could be.
-
-Costello: Another guy gets up and it's a long ball to center.
-
-Abbott: Because.
-
-Costello: Why? I don't know. And I don't care.
-
-Abbott: What was that?
-
-Costello: I said, I DON'T CARE!
-
-Abbott: Oh, that's our shortstop!
+credits that do not represent real carbon removal.
