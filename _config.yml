@@ -34,6 +34,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Bogota # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+ganalytics: UA-138701831-1
 
 include:
   - _pages
